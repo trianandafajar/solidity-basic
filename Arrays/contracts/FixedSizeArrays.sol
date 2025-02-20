@@ -32,4 +32,3 @@ b3 = 'z'; // => 0x7A
 // byte is an alias for bytes1 on older code
 }
 }
- 
